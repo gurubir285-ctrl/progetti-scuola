@@ -2,6 +2,10 @@
 
 A collection of Python and Bash scripts built during my Data Science and Machine Learning studies at ITIS Montani (Italy).
 
+## 🌟 Featured Project
+
+**[`data_cleaning_showcase.py`](./data_cleaning_showcase.py)** — A complete data cleaning pipeline built with Pandas: duplicate removal, missing value handling, format normalization, and dataset validation. Well-documented and ready to adapt for real-world datasets.
+
 ## 🐍 Python
 
 - **`algoritmi.py`** — Core algorithms and problem-solving exercises
